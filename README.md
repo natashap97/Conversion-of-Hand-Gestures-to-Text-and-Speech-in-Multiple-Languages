@@ -1,0 +1,1 @@
+# Conversion-of-Hand-Gestures-to-Text-and-Speech-in-Multiple-Languages
